@@ -1,0 +1,3 @@
+com\demo\controller\DemoRestAPIEurekaClient.class
+com\demo\DemoEurekaClientApplication.class
+com\demo\ServletInitializer.class
